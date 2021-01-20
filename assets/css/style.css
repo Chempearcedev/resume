@@ -55,6 +55,11 @@
     margin-bottom: 40px;
 }
 
+.ui-menu-color-interests {
+    color: orangered;
+}
+
+div#map {min-height: 360px;}
 
 
 /* ----------------------------------------Special paddings/margins/text */
